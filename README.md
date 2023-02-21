@@ -30,3 +30,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=solobat&show_icons=true&locale=en" alt="solobat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=solobat&" alt="solobat" /></p>
+
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
